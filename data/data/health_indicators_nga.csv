@@ -1,0 +1,12 @@
+State,Year,Indicator_Name,Value,Source
+Lagos,2025,Maternal Mortality Ratio,150.50,HMIS
+Kano,2025,Maternal Mortality Ratio,,HMIS
+Rivers,2025,Infant Mortality Rate,12.50,NBS
+FCT,2025,Maternal Mortality Ratio,,HMIS
+Enugu,2025,Maternal Mortality Ratio,98.20,HMIS
+Delta,2025,Maternal Mortality Ratio,,NBS
+Borno,2025,Infant Mortality Rate,45.00,NBS
+Kaduna,2025,Maternal Mortality Ratio,110.00,HMIS
+Abia,2025,Maternal Mortality Ratio,85.00,HMIS
+Lagos,2024,Maternal Mortality Ratio,145.00,HMIS
+Kano,2024,Maternal Mortality Ratio,,HMIS
